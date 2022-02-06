@@ -1,5 +1,5 @@
 # youtubeRating
-Shows YouTube video rating
+Google Chrome extension that Shows YouTube video rating
 
 
 Replaces SHARE button text with
@@ -10,3 +10,4 @@ API from returnyoutubedislike.com
 Alternative for a removed DISLIKE
 
 Pending review at Chrome Web Store
+To use load Package at chrome://extensions/
