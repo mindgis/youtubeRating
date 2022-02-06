@@ -10,4 +10,5 @@ API from returnyoutubedislike.com
 Alternative for a removed DISLIKE
 
 Pending review at Chrome Web Store
+
 To use load Package at chrome://extensions/
